@@ -1,0 +1,11 @@
+crear una base de datos
+use nombreBaseDatos
+mostrar bases de datos
+show dbs
+mostrar en que bd se esta trabajando
+db
+crear coleccion
+db.createCollection("NombreColection")
+insertar elementos en coleccion
+db.coleccion.insert({atributos})
+importante si la coleccion  en el comando anterior no existe la crea
